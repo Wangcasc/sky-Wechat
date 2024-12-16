@@ -8,7 +8,7 @@
             <image class="logo_ruiji data-v-57280228" src="../../static/logo_ruiji.png"></image>
           </view>
           <view class="info_top_right data-v-57280228">
-            <view class="right_title data-v-57280228"><text class="data-v-57280228">苍穹外卖</text>
+            <view class="right_title data-v-57280228"><text class="data-v-57280228">我的外卖</text>
               <block wx:if="{{shopStatus===1}}">
                 <view class="businessStatus data-v-57280228">营业中</view>
               </block>
